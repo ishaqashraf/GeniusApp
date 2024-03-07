@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Surfing - Group Lesson - Waikiki, Oahu",
+    "duration": "2 hours",
+    "description": "Learn to surf on this 2-hour group lesson on Oahu.  Join a group of students and discover how to ride the waves like some… ",
+    "price": 95,
+    "image": "https://media-cdn.tripadvisor.com/media/attractions-splice-spp-720x480/0f/fd/20/58.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Best Northern Lights Aurora Adventure FREE Portraits & Hot Pizza",
+    "duration": "6+ hours",
+    "description": "Nathan is a professional portrait photographer by trade, which is something you’d be hard pressed to find on any other Aurora… ",
+    "price": 320,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/26/cd/de/24/caption.jpg?w=500&h=400&s=1"
+  },
+  {
+    "id": 3,
+    "title": "Group Surf Lesson: Two Hours of Beginners Instruction in Kihei",
+    "duration": "3 hours",
+    "description": "Experience the sport of Hawaiian royalty. These guides love to teach all ages, adults and children alike. You are never … ",
+    "price": 85,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/c4/d7/e8/caption.jpg?w=500&h=400&s=1"
+  },
+  {
+    "id": 4,
+    "title": "1-Hour Nashville Line Dancing Class",
+    "duration": "1 hours",
+    "description": "We offer dances you can do everywhere! We are patient, and give you a true honky-tonk experience. We fell in love with each… ",
+    "price": 40,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/3f/5e/b9/caption.jpg?w=500&h=-1&s=1"
+  },
+  {
+    "id": 5,
+    "title": "Northern Lights Tours and Lifetime Adventure from Anchorage",
+    "duration": "6+ hours",
+    "description": "This tour only runs in the winter months from Sept 1st through May 1st. This trip will be focused on the Aurora Borealis…",
+    "price": 229,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/6c/7b/c7/caption.jpg?w=500&h=-1&s=1"
+  },
+  {
+    "id": 6,
+    "title": "Kauai Learn to Surf GROUP for 2/Private for 3/Private for 4 (your own people)",
+    "duration": "1-2 hours",
+    "description": "Looking for something different to do while on Kauai? You've always wanted to surf, and now here's your opportunity to learn… ",
+    "price": 94,
+    "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/7b/15/15/caption.jpg?w=500&h=400&s=1"
+  }
+]
